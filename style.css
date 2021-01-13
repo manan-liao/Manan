@@ -98,7 +98,7 @@ p {
 }
 
 .links:hover {
-    background-color: dodgerblue
+    background-color: dodgerblue 
 }
 
 #soccer {
@@ -123,17 +123,21 @@ img:hover {
     text-align: center;
     font-size: 42px;
 }
+
 #contact iframe {
     width: 100%;
     height: 600px;
 }
+
 .contact_1 h3 {
     display: inline;
 }
+
 .contact_1 a {
     color: white;
     text-shadow: none;
 }
+
 #contact {
     background-color: firebrick;
 }
